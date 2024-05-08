@@ -1,0 +1,2 @@
+A Human Computer Interaction (HCI) report on Apple Music. Showing my evaluation of Apple Musics UI including a Heuristic evaluation, Usability testing, test scripts,
+test results and basic app reviews of competitors.
